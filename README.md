@@ -1,2 +1,4 @@
 # deep-learning-in-space
-Uzayd a Yapay Zeka Projeleri
+Uydu görüntüleri ile Yapay Zeka Projeleri
+
+Projeler yakında yüklenecek
