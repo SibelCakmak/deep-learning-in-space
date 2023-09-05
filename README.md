@@ -1,2 +1,2 @@
 # deep-learning-in-space
-Uzayda Yapay Zeka Projeleri
+Uzayd a Yapay Zeka Projeleri
